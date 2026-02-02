@@ -6,6 +6,7 @@
   <description>Assignment: ROS2 Subscriber Node</description>
   <maintainer email="student@university.edu">Student Name</maintainer>
   <license>Apache-2.0</license>
+  
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
